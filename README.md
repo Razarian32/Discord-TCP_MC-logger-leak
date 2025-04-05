@@ -1,6 +1,8 @@
 ***Discord Minecraft TCP logger Leaked by Kirvy ***
 
-password: Kirvy
+Owner: Celestia (Retarded Coder)
+
+password: kirvy
 
 commands to start logging:
     !hello
@@ -10,3 +12,5 @@ things you need:
 
     webhook 
     discord bot token to host
+
+    *** Install the libraries needed ***
